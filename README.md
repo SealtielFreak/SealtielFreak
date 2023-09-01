@@ -1,4 +1,4 @@
-_“Nobody lives from art, but living without making art is merely existing.“_ / _“Nadie vive del arte, pero vivir sin hacer arte es es meramente existir.“_
+_“Nobody lives from art, but living without making art is merely existing.“_ / _“Nadie vive del arte, pero vivir sin hacer arte es meramente existir.“_
 
 <!--
 **SealtielFreak/SealtielFreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
